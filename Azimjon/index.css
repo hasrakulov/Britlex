@@ -16,6 +16,12 @@
   --lorem-color: #8f95a5;
 }
 
+.father-card{
+  margin: auto;
+  width: 1510px;
+  margin-left: -8px;
+}
+
 header {
   margin-left: -50px;
 }
@@ -147,7 +153,7 @@ span {
   margin-top: 60px;
 }
 
-.speaking {
+.card1 {
   width: 435px;
   height: 894px;
   margin-top: 116px;
@@ -222,7 +228,7 @@ span {
   cursor: pointer;
 }
 
-.Writing {
+.card2 {
   width: 434px;
   height: 531px;
   top: 1116px;
@@ -285,7 +291,7 @@ span {
   cursor: pointer;
 }
 
-.Reading {
+.card3 {
   width: 434px;
   height: 531px;
   top: 1116px;
@@ -310,7 +316,7 @@ span {
   color: #263238;
 }
 
-.Listening {
+.card4 {
   width: 875px;
   height: 353px;
   border-radius: 10px;
@@ -367,6 +373,6 @@ span {
   cursor: pointer;
 }
 
-main{
-    margin-bottom: 100px;
+main {
+  margin-bottom: 100px;
 }
