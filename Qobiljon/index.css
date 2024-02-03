@@ -129,3 +129,237 @@ span {
     color: var(--text-color);
     cursor: pointer;
 }
+
+.skills {
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.card1 {
+    width: 435px;
+    height: 894px;
+    margin-top: 116px;
+    margin-left: 127px;
+    border-radius: 10px;
+    background: #f5f5f5;
+}
+
+.speaking-text {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 144px;
+    height: 80px;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: #263238;
+}
+
+.information {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 347px;
+    height: 192px;
+    margin-top: 7px;
+    margin-left: 50px;
+    color: #8f95a5;
+}
+
+.information2 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 347px;
+    height: 97px;
+    margin-top: -70px;
+    margin-left: 50px;
+    color: #8f95a5;
+}
+
+.shared-father {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.learn {
+    width: 230px;
+    height: 60px;
+    background-color: var(--button-color);
+    color: var(--text-color);
+    margin-top: 40px;
+    margin-left: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    border: 2px solid var(--button-color);
+}
+
+.learn:hover {
+    background-color: var(--text-color);
+    color: var(--button-color);
+    cursor: pointer;
+}
+
+.card2 {
+    width: 434px;
+    height: 531px;
+    top: 1116px;
+    left: 580px;
+    border-radius: 10px;
+    background: #f5f5f5;
+    margin-left: 570px;
+    margin-top: -895px;
+}
+
+.typ {
+    margin-left: 135px;
+    width: 293px;
+    height: 293px;
+}
+
+.writing-text {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 112px;
+    height: 80px;
+    margin-top: -10px;
+    margin-left: 22px;
+    color: #263238;
+}
+
+.one {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #8f95a5;
+    width: 400px;
+    height: 72px;
+    margin-left: 22px;
+}
+
+.learn2 {
+    width: 230px;
+    height: 60px;
+    background-color: var(--button-color);
+    color: var(--text-color);
+    margin-top: 15px;
+    margin-left: 22px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    border: 2px solid var(--button-color);
+}
+
+.learn2:hover {
+    background-color: var(--text-color);
+    color: var(--button-color);
+    cursor: pointer;
+}
+
+.card3 {
+    width: 434px;
+    height: 531px;
+    top: 1116px;
+    left: 580px;
+    border-radius: 10px;
+    background: #f5f5f5;
+    margin-left: 1010px;
+    margin-top: -530px;
+}
+
+.reading-text {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 112px;
+    height: 80px;
+    margin-top: 35px;
+    margin-left: 22px;
+    color: #263238;
+}
+
+.card4 {
+    width: 875px;
+    height: 353px;
+    border-radius: 10px;
+    background: #f5f5f5;
+    margin-left: 570px;
+    margin-top: 10px;
+}
+
+.listening-text {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0em;
+    padding-top: 30px;
+    margin-left: 25px;
+}
+
+.here {
+    font-family: Poppins;
+    color: #8f95a5;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 402px;
+    height: 72px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.audience {
+    margin-left: 490px;
+    margin-top: -230px;
+}
+
+.learn3 {
+    width: 230px;
+    height: 60px;
+    background-color: var(--button-color);
+    color: var(--text-color);
+    margin-top: 30px;
+    margin-left: 22px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    border: 2px solid var(--button-color);
+}
+
+.learn3:hover {
+    background-color: var(--text-color);
+    color: var(--button-color);
+    cursor: pointer;
+}
+
+main {
+    margin-bottom: 100px;
+}
