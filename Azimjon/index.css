@@ -8,9 +8,11 @@
   box-sizing: border-box;
   list-style: none;
 }
+
 .container {
   width: 1250px;
   margin: auto;
+  /* margin-left: 80px; */
 }
 
 :root {
@@ -693,4 +695,5 @@ hr {
   margin-right: -100px;
   margin-top: 55px;
   margin-bottom: 58px;
+  cursor: pointer;
 }
